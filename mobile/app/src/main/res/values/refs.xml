@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <drawable name="frutorials">frutorials</drawable>
+    <drawable name="android_developer">android_developer</drawable>
 </resources>
